@@ -4,5 +4,7 @@
     <tags>
         <tag name="component" type="PAIR" multiLine="true" />
         <tag name="element" type="UNPAIRED" multiLine="true" />
+        <tag name="asset" type="UNPAIRED" multiLine="false" />
+        <tag name="img" type="UNPAIRED" multiLine="false" />
     </tags>
 </latte>

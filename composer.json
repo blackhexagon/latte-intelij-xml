@@ -1,7 +1,7 @@
 {
   "name": "blackhexagon/latte-intelij-xml",
   "description": "custom settings for intelij-latte plugin. see https://github.com/nette-intellij/intellij-latte/blob/master/docs/en/xmlFilesConfiguration.md#xml-configuration-files for more information",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "homepage": "https://github.com/blackhexagon/latte-intelij-xml",
   "license": "MIT",
   "require": {
